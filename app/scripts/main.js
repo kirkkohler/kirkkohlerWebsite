@@ -10,43 +10,65 @@ require.config({
         bootstrapScrollspy: '../bower_components/sass-bootstrap/js/scrollspy',
         bootstrapTab: '../bower_components/sass-bootstrap/js/tab',
         bootstrapTooltip: '../bower_components/sass-bootstrap/js/tooltip',
-        bootstrapTransition: '../bower_components/sass-bootstrap/js/transition'
+        bootstrapTransition: '../bower_components/sass-bootstrap/js/transition',
+        'sass-bootstrap': '../bower_components/sass-bootstrap/dist/js/bootstrap',
+        requirejs: '../bower_components/requirejs/require'
     },
     shim: {
         bootstrapAffix: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapAlert: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapButton: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapCarousel: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapCollapse: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapPopover: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapScrollspy: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapTab: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapTooltip: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         },
         bootstrapTransition: {
-            deps: ['jquery']
+            deps: [
+                'jquery'
+            ]
         }
     }
 });
 
-require(['app', 'jquery'], function (app, $) {
+require(['app', 'jquery'], function(app, $) {
     'use strict';
     // use app here
     console.log(app);
