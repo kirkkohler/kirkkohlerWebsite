@@ -29,10 +29,6 @@ navbar .input-append .btn-group{margin-top:0}
 .navbar .nav>li>a:focus,.navbar .nav>li>a:hover{background-color:transparent;color:#005580;text-decoration:none}
 .navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus{color:#fcfcfc;text-decoration:none;background-color:#2A6496;-webkit-box-shadow:inset 0 3px 8px rgba(0,0,0,0.125);-moz-box-shadow:inset 0 3px 8px rgba(0,0,0,0.125);box-shadow:inset 0 3px 8px rgba(0,0,0,0.125)}
 
-.hero-unit{
-    color:inherit;background-color:#fcfcfc;
-}
-
 html, body {
     background-color: #CCFFFF;
     margin:0;
@@ -59,14 +55,7 @@ html, body {
     border-bottom: 1px solid #e5e5e5;
 }
 
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: 40px;
-    padding-bottom: 19px;
-}
-
+/* Nav bar Title Link */
 .titleLink{
     text-shadow:0 1px 0 #0011a6;
 }
@@ -82,6 +71,15 @@ html, body {
 .titleLink a:hover{
     background-color:transparent;
     color:#005580;
+}
+
+/* Hero Unit */
+.hero-unit{
+    color:inherit;background-color:#fcfcfc;
+}
+
+.transparent{
+    background:rgba(255,255,255,0.85);
 }
 
 /* Custom page footer */
