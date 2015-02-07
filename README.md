@@ -3,4 +3,4 @@ kirkkohlerYeomanWebsite
 
 Personal Website using Yeoman webapp
 
-Target site: https://kirkkohler.github.io/kirkkohlerYeomanWebsite/
+Target site: http://kirkkohler.github.io/kirkkohlerWebsite
