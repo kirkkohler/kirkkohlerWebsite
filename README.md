@@ -1,6 +1,3 @@
-<a href="https://kirkkohler.com/">kirkkohler.com</a>
-=======================
-
 About Me
 -----
 I have been interested in technology since my early youth when my dad purchased a subscription to <a href="http://www.popsci.com/" target="_blank">Popular Science Magazine</a> for my brother and me.  I remember imagining how cool the world would be when scientists could make the machines and computers they were designing.  Fast forward a decade later, and I was building my first computer with an Intel Pentium III 500MHz Processor.  In 1996, I got the itch for coding by making fan websites for bands and starting an online magazine.  I recall how exciting it was to see my code trigger a song to play within a webpage for the first time.
