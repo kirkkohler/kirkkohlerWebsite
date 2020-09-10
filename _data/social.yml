@@ -4,12 +4,12 @@
 - title: Blog
   url: https://medium.com/digital-cake
   icon: fab fa-medium
-- title: LinkedIn
-  url: https://www.linkedin.com/in/kirkkohler/
-  icon: fab fa-linkedin
 - title: AngelList
   url: https://angel.co/u/kirk-kohler
   icon: fab fa-angellist
+- title: LinkedIn
+  url: https://www.linkedin.com/in/kirkkohler/
+  icon: fab fa-linkedin
 - title: GitHub
   url: https://github.com/kirkkohler
   icon: fab fa-github
