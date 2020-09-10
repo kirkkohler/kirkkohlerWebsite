@@ -1,9 +1,5 @@
-kirkkohler.com
+<a href="https://kirkkohler.com/">kirkkohler.com</a>
 =======================
-
-Personal Website using Yeoman webapp
-
-Target site: https://kirkkohler.github.io/kirkkohlerWebsite
 
 About Me
 -----
